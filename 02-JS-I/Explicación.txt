@@ -1,0 +1,20 @@
+Variables: 
+Son aquellos lugares dentro del codigo, donde guardamos aquella información que queremos usar posteriormente.
+
+Strings:
+Son cadenas de caracteres tipo texto
+
+Funciones: 
+Las funciones son conjuntos de operaciones que usaremos de forma repetitiva.
+ - Argumentos: Son aquellos parametos que dicen lo que va a hacer nuestra función.
+ - Return: Es la clave que usamos para que se muestre nuestra función.
+
+Declaraciones:
+Son condiciones que determinan lo que debe hacer nuestro código.
+ - If: Se refiere a que si se cumplen los parametros nombrados en seguida, nos devuelva determinado valor.
+
+Valores booleanos:
+Son palabras predefinidas por el código que cumplen cierta función como por ejemplo:
+ -True: Nos indica que la afirmación es Verdadera
+ -False: Nos indica que la afirmación es Falsa
+
