@@ -1,0 +1,11 @@
+For:
+Es una condición integrada de JavaScript que permite repetir una operación infinidad de veces hasta que ésta se convierta en falsa
+
+&&:
+Es la forma que JavaScript usa para definir una condición AND "y" permitiendo así usar dos operaciones para devolver un resultado True o False
+
+||:
+Es el simbolo que define la condición OR "o" la cual nos permite usar una condición u otra para dar un resultado True o False 
+
+!:
+Simbolo utilizado para la condición NOT "no" la cual nos permite negar una afirmación y devolver un True o False
