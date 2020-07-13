@@ -1,0 +1,2 @@
+Array:
+Es el método de Javascript que permite almacenar datos en forma de lista, independientemente del tipo de datos que sean.
