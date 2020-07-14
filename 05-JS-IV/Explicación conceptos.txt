@@ -1,0 +1,16 @@
+Objetos:
+Un objeto en javascript es un conjunto de datos que describen un mismo concepto y permiten acceder a la información de éste más facilmente
+
+Propiedades:
+Son aquellas partes del objeto que contienen una información especifica sobre el
+
+Métodos:
+Son las funciones guardadas dentro de un objeto
+
+Bucle `for…in`:
+Permite hacer bucles para una propiedad dentro de un objeto
+
+Notación de puntos vs notación de corchetes:
+La notación puntos permite llamar de manera rápida a una clave dentro de un objeto haciendo uso del nombre del objeto, un punto y el nombre de la clave objeto.clave
+
+La notación corchetes aunque es más larga para escribir permite hacer llamados más específicos de las claves dentro de un objeto
