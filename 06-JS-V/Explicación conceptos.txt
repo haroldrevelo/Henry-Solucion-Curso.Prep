@@ -1,0 +1,5 @@
+Prototype:
+Hace ralación al elemento base con la que fue creado un objeto en javascritp
+
+Constructors(de Clases):
+Son funciones "padre" que permiten almacenar una serie de datos y agilizan la construcción de objetos posteriormente.
