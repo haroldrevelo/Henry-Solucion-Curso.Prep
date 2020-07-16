@@ -1,0 +1,2 @@
+Callbacks:
+Permiten colocar una función como argumento de otra función y pueden ser llamados en cualquier momento
